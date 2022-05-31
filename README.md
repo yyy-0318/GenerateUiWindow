@@ -1,0 +1,3 @@
+# GenerateUiWindow
+一键生成UI界面代码
+对拼好的UI界面，右键选择导出界面脚本即可生成UI代码，可以根据自己UI结构和命名规范对CreateWindowsScript脚本进行调整生成规则
